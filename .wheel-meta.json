@@ -1,0 +1,22 @@
+{
+  "wheel_id": 512,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-152",
+  "project": "garage-door-repairs-brisbane-council-and-approvals-70d10c083eb2",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-011",
+  "node_role": "buffer",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane council and approvals",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-council-and-approvals-70d10c083eb2/",
+  "tier": "T2",
+  "writeback_nonce": "8beb9798d81a1d3e",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-brisbane-garagedoorsrepairbrisbane-0-a370ce.gitlab.io/",
+      "anchor": "more on garage door repairs brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
